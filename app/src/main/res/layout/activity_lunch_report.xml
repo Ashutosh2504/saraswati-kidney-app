@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableRow
+    android:id="@+id/table"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F0F7F7"
+    android:padding="5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:id="@+id/item_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:paddingLeft="5dp"
+        android:textSize="12sp"
+         />
+
+    <TextView
+        android:id="@+id/quantity_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:textSize="12sp"
+         />
+
+    <TextView
+        android:id="@+id/kcal_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:textSize="12sp"
+
+        />
+
+    <TextView
+        android:id="@+id/date_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:textSize="12sp"
+         />
+    <TextView
+        android:id="@+id/time_report"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:textSize="12sp"
+        android:layout_gravity="center"
+         />
+</TableRow>

@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">SaraswatiApp</string>
+
+    <string name="fragment_home">Primary Analysis Of Your Diet</string>
+    <string name="fragment_home1">Secondary Analysis Of Your Diet</string>
+
+    <string name="breakfast">BREAKFAST</string>
+    <string name="lunch">LUNCH</string>
+    <string name="dinner">DINNER</string>
+
+    <string name="fit">Ft/In</string>
+    <string name="Cm">Cm</string>
+
+    <string name="open">Open</string>
+    <string name="Close">Close</string>
+    <string name="tag">Your profile is created \n Sucessfully</string>
+    <string name="title">We\'re happy that you\'ve taken the first step towards a healthier you. We need a few details to kickstart you journey.</string>
+    <string name="title1">What is your name?</string>
+    <string name="title2Frag">Where are you from?</string>
+    <string name="title2">This will help us persnalize the app for you.</string>
+    <string name="title3Frag">What\'s your gender?</string>
+    <string name="title3">This will help us calculate your target weight</string>
+    <string name="title4Frag">What\'s your Date of Birth?</string>
+    <string name="title4">Your age determines how much yu should consume.(Select your Date of Birth)</string>
+    <string name="title5Frag">How tall are you?</string>
+    <string name="title5">Your height will help us calculate important body starts to help you reach your goals faster.</string>
+    <string name="title6Frags">What\'s your current weight?</string>
+    <string name="title6">Your height will help us determine your goal,and monitor your progress over time</string>
+    <string name="title7Frags">Any Medical Condition we should be aware of?</string>
+    <string name="title7">This info will help us guid you to your fitness goals safely and quickly.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="none">None</string>
+    <string name="high_cholesterol">High cholesterol</string>
+    <string name="hypertension">Hypertension</string>
+    <string name="pcos">PCOS</string>
+    <string name="thyroid">Thyroid</string>
+    <string name="physical_injury">Physical injury</string>
+    <string name="excessive_stress_anxiety">Excessive stress/anxiety</string>
+    <string name="depression">Depression</string>
+    <string name="anger_issues">Anger Issues</string>
+    <string name="loneliness">Loneliness</string>
+    <string name="relationship_stress">Relationship Stress</string>
+    <string name="kidney_disease">Kidney Disease</string>
+    <string name="on_hemodialysis">On Hemodialysis</string>
+    <string name="heart_disease">Heart Disease</string>
+    <string name="sleep_issues">Sleep Issues</string>
+    <string name="dyslipidemia">Dyslipidemia</string>
+    <string name="on_capd">On CAPD</string>
+    <string name="others">Others</string>
+    <string name="add_other_specific_disease">Add other specific disease</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="todays_date">Todays Date</string>
+    <string name="select_date">Select Date</string>
+    <string name="add_lunch">Add Lunch</string>
+    <string name="_0">0</string>
+    <string name="inch">Inch</string>
+
+    <string name="kg">Kg</string>
+    <string name="gm">Gm</string>
+    <string name="dots">.</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="new_delhi">New Delhi</string>
+    <string name="kolkata">Kolkata</string>
+    <string name="chennai">Chennai</string>
+    <string name="create_your_account">Create Your Account</string>
+    <string name="_91">+91</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="dont_have_account">Dont have account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="login">LOGIN</string>
+    <string name="insert_your_otp">Insert Your OTP</string>
+    <string name="hey_there">Hey there!</string>
+    <string name="enter_your_name">Enter your name</string>
+
+    <string name="ft">Ft</string>
+
+    <string name="height_in_cm">Height in Cm</string>
+
+    <string name="date">Date</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+
+    <string name="dear_user">Dear Sudarshan</string>
+    <string name="your_profile_is_created_nsucessfully">Your profile is created \nSucessfully</string>
+    <string name="_00">00</string>
+    <string name="bmi">BMI</string>
+
+    <string name="bfp">BFP</string>
+    <string name="health_related_plans">Health related Plans</string>
+    <string name="view_more">View More</string>
+    <string name="nutrition">Nutrition</string>
+    <string name="weightloss">Weightloss</string>
+
+    <string name="helathtips">Helathtips</string>
+
+    <string name="featured">Featured</string>
+    <string name="_200_000">$200.000</string>
+    <string name="out_pakages">Out Pakages</string>
+    <string name="more_details">More Details</string>
+    <string name="analysis">Analysis of Your Diet will be based on your 24 hourse did in take including averages for 3 days</string>
+    <string name="add_extra_lunch">Add Extra Lunch</string>
+    <string name="recommended_plans_for_you">Recommended plans for You</string>
+    <string name="based_on_your_fitness_goals">Based on your fitness goals</string>
+    <string name="smart_diet_workout_plan"><![CDATA[Smart Diet & Workout Plan]]></string>
+    <string name="our_ai_powered_plan_to_help_you_lose_20_kgs">Our AI powered plan to help you lose 20 kgs</string>
+    <string name="customizable_diet_plan">Customizable Diet Plan</string>
+    <string name="ria_your_ai_coach_assistant"><![CDATA[Ria-Your AI Coach & Assistant]]></string>
+    <string name="start_at_199_per_month">Start at ₹199 per month</string>
+    <string name="ask_dietitian">Ask Dietitian</string>
+</resources>

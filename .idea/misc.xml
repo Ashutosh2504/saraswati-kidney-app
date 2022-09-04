@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/drawable/ic_person.xml" value="0.13" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_add_extra_breakfast.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_add_extra_lunch.xml" value="0.11822916666666666" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_breakfast.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_dinner.xml" value="0.20842105263157895" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_drawer.xml" value="0.16041666666666668" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_eight.xml" value="0.2" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_first.xml" value="0.17" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_five.xml" value="0.2" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_fourth.xml" value="0.11927083333333334" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_gender5.xml" value="0.21" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_login.xml" value="0.12916666666666668" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_lunch.xml" value="0.21" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_name1.xml" value="0.2" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_second.xml" value="0.14" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_seven.xml" value="0.2" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_six.xml" value="0.13125" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/activity_third.xml" value="0.11458333333333333" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/fragment_home_fragments.xml" value="0.22" />
+        <entry key="..\:/Free Lancing/HealthifyApp/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_add_extra_breakfast.xml" value="0.22" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_add_extra_lunch.xml" value="0.22" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_ask_dietitian.xml" value="0.18854166666666666" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_break_fast_report.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_break_fastprimaryanalysis_report.xml" value="0.14010416666666667" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_breakfast.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_dinner.xml" value="0.13385416666666666" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_dinner_primary_analysis_report.xml" value="0.21" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_dinner_report.xml" value="0.13385416666666666" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_drawer.xml" value="0.14010416666666667" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_eight.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_gender5.xml" value="0.22" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_lunch.xml" value="0.22" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_lunch_primary_analysis_report.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_lunch_report.xml" value="0.33" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_medicalcondition.xml" value="0.13229166666666667" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_name1.xml" value="0.18854166666666666" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_primary_analysis_diet_report.xml" value="0.22" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/activity_primary_report.xml" value="0.20416666666666666" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/fragment_home_fragments.xml" value="0.33" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/fragment_primary_analysis_diet.xml" value="0.13229166666666667" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/layout/tabular_view.xml" value="0.2" />
+        <entry key="..\:/Free Lancing/Own Code/HealthifyApp/app/src/main/res/menu/iconmenu.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
